@@ -1,0 +1,6 @@
+
+First pass at a useable NinePatch image for MonoTouch.  I was using NinePatch heavily for user interface skinning and ported an application from Android to iOS/MonoTouch and thought this would be useful to others, look for a version of MonoTouch.Dialog with this incorporated soon.
+
+Feel free to contact me for improvements...
+
+Kenny.
